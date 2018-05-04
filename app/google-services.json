@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426821785443",
+    "firebase_url": "https://fir-rpl-7456d.firebaseio.com",
+    "project_id": "fir-rpl-7456d",
+    "storage_bucket": "fir-rpl-7456d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426821785443:android:b99223bd6a44a117",
+        "android_client_info": {
+          "package_name": "com.tugas.hisyam.gymsum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426821785443-eusi99rp25hq7oc3oc8b7hl8eg58gse7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tugas.hisyam.gymsum",
+            "certificate_hash": "80bc0d06fa2b4a1b895989994cb16f23307bfd8c"
+          }
+        },
+        {
+          "client_id": "426821785443-11qkqe78r7lul3bbtmfknvrbffpee2nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblLSbVzHtbGhqfkPc0etU-ikc47w0eEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426821785443-11qkqe78r7lul3bbtmfknvrbffpee2nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GymSum</string>
+    <string name="title_activity_logout">Logout</string>
+    <string name="title_activity_profil">Profil</string>
+    <string-array name="days">
+
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+        <item>Minggu</item>
+
+    </string-array>
+
+    <string name="title_massages">Select Fruits</string>
+    <string name="AbRoller">Ab Roller</string>
+    <string name="Butterfly">Butterfly</string>
+    <string name="Cocoons">Cocoons</string>
+    <string name="DeclineCrunch">Decline Crunch</string>
+    <string name="FrontSquad">Front Squad</string>
+    <string name="PushUp">Push Up</string>
+</resources>
